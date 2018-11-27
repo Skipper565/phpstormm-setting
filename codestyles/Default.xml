@@ -6,7 +6,6 @@
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
-    <option name="RETURN_TYPE_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
