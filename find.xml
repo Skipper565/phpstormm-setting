@@ -14,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>*Repository.php</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
