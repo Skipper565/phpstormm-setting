@@ -82,6 +82,10 @@
           <option name="url" value="http://git.digital.cz" />
           <option name="userName" value="zemik" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.digital.cz/mm/statistics-stormm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
