@@ -74,6 +74,14 @@
           <option name="url" value="git@git.digital.cz:mm/cadastral-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.digital.cz/mm/api-stormm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.digital.cz" />
+          <option name="userName" value="zemik" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
