@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Repository.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*Repository.php</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,5 +23,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*Repository.php</mask>
   </component>
 </application>
