@@ -18,10 +18,10 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*Repository.php</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
