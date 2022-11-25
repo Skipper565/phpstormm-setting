@@ -3,6 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -19,9 +20,9 @@
     <mask>*.inc</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*Repository.php</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
